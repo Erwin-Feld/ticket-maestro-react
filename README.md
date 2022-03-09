@@ -12,7 +12,7 @@ Managing tickets
 
 project features and functionality based on https://angular.io/tutorial
 
-This project was generated with Angular CLI version 13.1.2.
+
 
 ## Available Scripts
 
