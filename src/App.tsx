@@ -1,11 +1,9 @@
-
+import TicketInBox from "./components/ticket-inbox/ticket-inbox";
 
 function App() {
   return (
-    <div className="App">
-     tour of heroes
-    </div>
-  );
+    <TicketInBox />
+  )
 }
 
 export default App;
